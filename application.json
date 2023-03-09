@@ -10,6 +10,8 @@
   "unreadCommentThreads": 0,
   "color": "#C7F3E3",
   "icon": "globe",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
